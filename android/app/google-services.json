@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416588582259",
+    "project_id": "flash-chat-7bceb",
+    "storage_bucket": "flash-chat-7bceb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416588582259:android:56eff53daf32cfed948906",
+        "android_client_info": {
+          "package_name": "com.scuaze.flash_chat_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjz6vv23Lday7JyTHcyzw0W7dpOJ7q_Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
