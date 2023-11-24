@@ -52,17 +52,17 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'apiKey',
     appId: 'appId',
-    messagingSenderId: '416588582259',
-    projectId: 'flash-chat-7bceb',
-    storageBucket: 'flash-chat-7bceb.appspot.com',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    storageBucket: 'storageBucket',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB8jxmJKWraMHKiHvC8l-6hlfc1fCzI1j0',
-    appId: '1:416588582259:ios:f7236592a986ab8d948906',
-    messagingSenderId: '416588582259',
-    projectId: 'flash-chat-7bceb',
-    storageBucket: 'flash-chat-7bceb.appspot.com',
-    iosBundleId: 'com.example.flashChatFlutter',
+    apiKey: 'apiKey',
+    appId: 'appId',
+    messagingSenderId: 'messagingSenderId',
+    projectId: 'projectId',
+    storageBucket: 'storageBucket',
+    iosBundleId: 'iosBundleId',
   );
 }
