@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "416588582259",
-    "project_id": "flash-chat-7bceb",
-    "storage_bucket": "flash-chat-7bceb.appspot.com"
+    "project_number": "project_number",
+    "project_id": "project_id",
+    "storage_bucket": "storage_bucket"
   },
   "client": [
     {
